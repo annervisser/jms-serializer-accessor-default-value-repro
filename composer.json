@@ -1,0 +1,17 @@
+{
+    "name": "ahcvisser/jms-serializer-accessor-default-value",
+    "require": {
+        "jms/serializer": "3.18.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ahcvisser\\JmsSerializerAccessorDefaultValue\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anner Visser",
+            "email": "a.h.c.visser@scienta.nl"
+        }
+    ]
+}
